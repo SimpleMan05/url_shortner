@@ -1,2 +1,5 @@
 # url_shortner
-as the name says
+
+This document lists all the tools, technologies and libraries used in the URL shortner project. 
+
+## Prerequisites
